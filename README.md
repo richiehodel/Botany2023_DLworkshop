@@ -20,11 +20,10 @@ Workshop will be held from 8am - 5pm on Sunday, July 23rd, 2023. Workshop attend
 | --- | --- |
 | 8:00 - 8:15 | Introduction |
 | 8:15 - 9:00 | [Module 1:](1_case_studies) Case studies illustrating how researchers are using deep learning (presenter: Rebecca Dikow) |
-| | 30 MINUTE COFFEE BREAK |
-| [10:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T181500&p1=18) - [11:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T190000&p1=18) | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Jenna Ekwealor) |
-| | 10 MINUTE BREAK |
-| [11:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T191000&p1=18) - [11:50](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T195000&p1=18) | [Module 3:](3_image_acquisition) Acquiring and manipulating digitized herbarium images (presenter: Sundre Winslow) |
-| | LUNCH |
+| 9:10 - 9:55 | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Jenna Ekwealor) |
+| 10:00 - 10:30 | Coffee break |
+| 10:30 - 11:30 | [Module 3:](3_image_acquisition) Acquiring and manipulating digitized herbarium images (presenter: Sundre Winslow) |
+| 12:00 - 1:00 | LUNCH |
 | [1:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2110000&p1=18) - [2:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2200000&p1=18) | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Richie Hodel) |
 | | 10 MINUTE BREAK |
 | [2:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2210000&p1=18) - [3:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2300000&p1=18) | [Module 5:](5_create_annotated_datasets) Creating annotated datasets and How to train an object classifier (presenter: Will Weaver) |
