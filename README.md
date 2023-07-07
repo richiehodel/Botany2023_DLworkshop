@@ -17,7 +17,7 @@ There are six sessions, five of which will be hands-on. There is a separate dire
 Workshop will be held from 8am - 5pm on Sunday, July 23rd, 2023. Workshop attendees must register for and enter this event through the [Botany conference platform](https://botanyconference.org/).
 
 | Time in MDT | Topic |
-| --- | --- |
+| ---- | ---- |
 | 8:00 - 8:15 | Introduction |
 | 8:15 - 9:00 | [Module 1:](1_case_studies) Case studies illustrating how researchers are using deep learning (presenter: Rebecca Dikow) |
 | 9:10 - 9:55 | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Jenna Ekwealor) |
