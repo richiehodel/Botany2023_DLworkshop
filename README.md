@@ -16,9 +16,9 @@ There are six sessions, five of which will be hands-on. There is a separate dire
 ## Schedule
 Workshop will be held from 8am - 5pm on Sunday, July 23rd, 2023. Workshop attendees must register for and enter this event through the [Botany conference platform](https://botanyconference.org/).
 
-| Time in AKDT | Topic |
+| Time in MDT | Topic |
 | --- | --- |
-| [8:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T170000&p1=18) - [8:50](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T171500&p1=18) | Introduction |
+| [8:00] - [8:50] | Introduction |
 | [9:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T172000&p1=18) - [9:50](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T175000&p1=18) | [Module 1:](1_case_studies) Case studies illustrating how researchers are using deep learning (presenter: Rebecca Dikow) |
 | | 30 MINUTE COFFEE BREAK |
 | [10:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T181500&p1=18) - [11:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T190000&p1=18) | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Jenna Ekwealor) |
