@@ -17,18 +17,17 @@ There are six sessions, five of which will be hands-on. There is a separate dire
 Workshop will be held from 8am - 5pm on Sunday, July 23rd, 2023. Workshop attendees must register for and enter this event through the [Botany conference platform](https://botanyconference.org/).
 
 | Time in MDT | Topic |
-| ---- | ---- |
+| ----- | ----- |
 | 8:00 - 8:15 | Introduction |
 | 8:15 - 9:00 | [Module 1:](1_case_studies) Case studies illustrating how researchers are using deep learning (presenter: Rebecca Dikow) |
 | 9:10 - 9:55 | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Jenna Ekwealor) |
 | 10:00 - 10:30 | Coffee break |
 | 10:30 - 11:30 | [Module 3:](3_image_acquisition) Acquiring and manipulating digitized herbarium images (presenter: Sundre Winslow) |
 | 12:00 - 1:00 | LUNCH |
-| [1:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2110000&p1=18) - [2:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2200000&p1=18) | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Richie Hodel) |
-| | 10 MINUTE BREAK |
-| [2:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2210000&p1=18) - [3:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2300000&p1=18) | [Module 5:](5_create_annotated_datasets) Creating annotated datasets and How to train an object classifier (presenter: Will Weaver) |
-| | 30 MINUTE COFFEE BREAK |
-| [3:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2330000&p1=18) - [4:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2400000&p1=18) | [Module 6:](6_model_training) Model training and validation (presenter: Richie Hodel) |
+| 1:00 - 1:50 | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Richie Hodel) |
+| 2:00 - 2:50 | [Module 5:](5_create_annotated_datasets) Creating annotated datasets and How to train an object classifier (presenter: Will Weaver) |
+| 3:00 - 3:30 | Coffee break |
+| 3:30 - 4:00 | [Module 6:](6_model_training) Example application (presenter: Richie Hodel) |
 
 
 ## Resources
@@ -47,4 +46,4 @@ https://colab.research.google.com/github/
 
 Post workshop survey:
 
-https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_e2uXtOfjuI87a98
+
