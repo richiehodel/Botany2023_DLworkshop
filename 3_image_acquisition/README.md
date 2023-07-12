@@ -13,7 +13,7 @@ Our goals are for you to be able to:
 This module contains two versions of the same notebook:
 
 * A "completed" version where all code has been executed so that you can see the results: 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2023_DLworkshop/blob/main/3_image_acquisition/module_3_image_acquisition_complete.ipyn](https://colab.research.google.com/drive/1_C5HcWe7IC7OYBk3WXtxutZEulum5cGl?usp=sharing)b)
+[![Open In Colab](src="https://gist.github.com/SundreWinslow/c4183100a4d764cd5ece8f454a683f6a.js")
 * A "ready to run" version that you can execute the code in for yourself, or copy and edit as you wish:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2023_DLworkshop/blob/main/3_image_acquisition/module_3_image_acquisition_empty.ipynb)
 
