@@ -27,7 +27,7 @@ Workshop will be held from 8am - 5pm on Sunday, July 23rd, 2023. Workshop attend
 |  1:00 - 1:50  | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Richie Hodel) |
 |  2:00 - 2:50  | [Module 5:](5_create_annotated_datasets) Creating annotated datasets and How to train an object classifier (presenter: Will Weaver) |
 |  3:00 - 3:30  | Coffee break |
-|  3:30 - 4:00  | [Module 6:](6_example_application) Example application (presenter: Richie Hodel) |
+|  3:30 - 4:00  | [Module 6:](6_application_example) Example application (presenter: Richie Hodel) |
 
 
 ## Resources
