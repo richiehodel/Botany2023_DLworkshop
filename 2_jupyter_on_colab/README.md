@@ -11,9 +11,9 @@
 This Python Introduction notebook exists as two separate versions:
 
 * A "completed" version with all code cells populated: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2022_DLworkshop/blob/main/2_jupyter_on_colab/module_2_intro_to_python_complete.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2023_DLworkshop/blob/main/2_jupyter_on_colab/module_2_intro_to_python_complete.ipynb)
 * An "emptied" version with headings and some explanations, so that we can code along:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2022_DLworkshop/blob/main/2_jupyter_on_colab/module_2_intro_to_python_emptied.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2023_DLworkshop/blob/main/2_jupyter_on_colab/module_2_intro_to_python_emptied.ipynb)
 
 Mostly taken from https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html
 
