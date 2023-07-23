@@ -45,6 +45,5 @@ Link to open jupyter notebooks from github in google colab:
 
 https://colab.research.google.com/github/
 
-Post workshop survey:
 
 
